@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML for finance
 - 📫 How to reach me kiriamburi@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I add butter to my coffee
+- ⚡ Fun fact: Butter and coffee are awesome. 
 
 <!---
 Tedblueberry/Tedblueberry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
